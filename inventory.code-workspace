@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "inventory",
+			"path": "."
+		}
+	],
+	"settings": {
+		"php.version": "8.4"
+	}
+}
